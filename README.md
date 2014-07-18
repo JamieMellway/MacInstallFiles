@@ -32,6 +32,7 @@ Kontakt Komplete Ultimate
 Xamarin  
 Firefox  
 AdBlock Plus for Firefox  
+github  
  
 Dock
 ====
@@ -43,4 +44,4 @@ killall Dock
 
 Pin (System): Finder, Safari, iTunes, LaunchPad, App Store, Activity Monitor, System Preference, Terminal, TextEdit, Steam  
 Pin (Music Production): GarageBand, Audio MIDI Setup, Kontakt, Logic Pro X, Piano Marvel, Audacity, DosBox  
-Pin (Development): Xamarin Studio, XCode  
+Pin (Development): Xamarin Studio, XCode, github 

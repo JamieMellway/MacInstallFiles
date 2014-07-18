@@ -12,6 +12,10 @@ See http://www.vogons.org/viewtopic.php?t=28984 to setup DosBox, MIDI, and IAC D
 
 Turn on time machine
 
+In console: defaults write com.apple.finder AppleShowAllFiles YES
+
+Copy .inputrc to ~/
+
 Install
 =======
 Adobe Flash
@@ -19,6 +23,7 @@ Adobe Reader
 AdBlock Plus for Safari
 Audio Tools for XCode
 DosBox (edit ~/Library/Preferences/DOSBox 0.74 Preferences so that mpu401=intelligent, mididevice=coremidi, and midiconfig=0)
+Voyetra SP Pro in dosbox (pick no FM Synth and the Roland MPU)
 Tattiebogle Xbox 360 controller driver
 Audacity
 Piano Marvel

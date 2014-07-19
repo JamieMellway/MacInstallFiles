@@ -16,25 +16,30 @@ In console: defaults write com.apple.finder AppleShowAllFiles YES
 
 Copy .inputrc to ~/
 
-Install
-=======
+General Installs
+================
 Adobe Flash  
 Adobe Reader  
 AdBlock Plus for Safari  
-Audio Tools for XCode  
-DosBox (edit ~/Library/Preferences/DOSBox 0.74 Preferences so that mpu401=intelligent, mididevice=coremidi, and midiconfig=0)  
-Voyetra SP Pro in dosbox (pick no FM Synth and the Roland MPU)  
 Tattiebogle Xbox 360 controller driver  
-Audacity  
-Piano Marvel  
 Steam  
-Kontakt Komplete Ultimate  
 Xamarin  
 Firefox  
 AdBlock Plus for Firefox  
 github  
 winamp - https://www.macupdate.com/app/mac/40721/winamp
- 
+
+Music Prodution Installs
+========================
+Audio Tools for XCode  
+DosBox (edit ~/Library/Preferences/DOSBox 0.74 Preferences so that mpu401=intelligent, mididevice=coremidi, and midiconfig=0)  
+Voyetra SP Pro in dosbox (pick no FM Synth and the Roland MPU)  
+Audacity
+Piano Marvel  
+Kontakt Komplete Ultimate (Harddrive install) 
+MIDI Patchbay http://notahat.com/midi_patchbay/
+
+
 Dock
 ====
 Add two spaces to the Dock so that we have three section: System, Music Production, and Development  

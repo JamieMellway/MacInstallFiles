@@ -28,6 +28,7 @@ Firefox
 AdBlock Plus for Firefox  
 github  
 winamp - https://www.macupdate.com/app/mac/40721/winamp
+Open multiple Xamarin Studios - http://stackoverflow.com/a/15164307
 
 Music Prodution Installs
 ========================

@@ -1,7 +1,7 @@
 MacInstallFiles
 ===============
 
-I'm keeping track of the files I install on my Late 2013 Mac Pro so that I will have it handy when I set up Mac machines.
+I'm keeping track of the files I install on my Late 2013 Mac Pro so that I will have it handy when I set up other Mac machines.
 
 Settings
 ========
@@ -29,23 +29,33 @@ Getting Voyetra SP Pro to work via DosBox to work with MIDI devices took a few s
 
 See http://www.vogons.org/viewtopic.php?t=28984 to setup DosBox, MIDI, and IAC Driver.
 
-Install
-=======
+General Installs
+================
 Adobe Flash
 Adobe Reader
 AdBlock Plus for Safari
 Firefox
 AdBlock Plus for Firefox
-Kontakt Komplete Ultimate
+Steam
+Tattiebogle Xbox 360 controller driver
+winamp - https://www.macupdate.com/app/mac/40721/winamp
+
+Music Prodution Installs
+========================
+Kontakt Komplete Ultimate (Harddrive install) 
 Audio Tools for XCode
 DosBox (edit “~/Library/Preferences/DOSBox 0.74 Preferences” so that mpu401=intelligent, mididevice=coremidi, and midiconfig=0)
 Voyetra SP Pro in dosbox (pick no FM Synth and the Roland MPU)
 SoundFlower
 Audacity
 Piano Marvel
-Steam
-Tattiebogle Xbox 360 controller driver
+MIDI Patchbay http://notahat.com/midi_patchbay/
+
+Development Installs
+====================
 Xamarin
+Open multiple Xamarin Studios - http://stackoverflow.com/a/15164307
+github 
 
 Dock
 ====
@@ -56,5 +66,5 @@ defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-t
 killall Dock
 
 Pin (System): Finder, Safari, iTunes, LaunchPad, App Store, Activity Monitor, System Preference, Terminal, TextEdit, Steam
-Pin (Music Production): GarageBand, Audio MIDI Setup, MIDI PatchBay, Kontakt, Logic Pro X, Piano Marvel, Audacity, DosBox, SoundFlower, DosBox
-Pin (Development): Xamarin Studio, XCode
+Pin (Music Production): GarageBand, Audio MIDI Setup, MIDI PatchBay, Kontakt, Logic Pro X, Piano Marvel, Audacity, DosBox, SoundFlower
+Pin (Development): Xamarin Studio, XCode, github

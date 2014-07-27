@@ -1,7 +1,7 @@
 MacInstallFiles
 ===============
 
-I'm keeping track of the files I install on my Late 2013 Mac Pro so that I will have it handy when I set up other Mac machines.
+I'm keeping track of the files I install on my Late 2013 Mac Pro so that I will have it handy when I set up other Mac machines.  Hopefully it will be useful for other people as well.
 
 Settings
 ========
@@ -12,6 +12,8 @@ Turn on time machine
 In console: defaults write com.apple.finder AppleShowAllFiles YES
 
 Copy .inputrc to ~/
+In console: chmod 644 ~/.inputrc
+Open Terminal window, go to Preferences -> Settings -> Keyboard.  Find the symbol that is an up arrow with two horizontal lines through it, go to Edit and change the value from 'Scroll Page Up' to '\033[5~'.  Now change the down arrow with two lines from 'Scroll Page Down' to '\033[6~'.
 
 Setting Up Audio
 ================

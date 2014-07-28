@@ -11,9 +11,14 @@ Turn on time machine
 
 In console: defaults write com.apple.finder AppleShowAllFiles YES
 
+To get page up and page down working on the Terminal history:  
 Copy .inputrc to ~/  
 In console: chmod 644 ~/.inputrc  
 Open Terminal window, go to Preferences -> Settings -> Keyboard.  Find the symbol that is an up arrow with two horizontal lines through it, go to Edit and change the value from 'Scroll Page Up' to '\033[5~'.  Now change the down arrow with two lines from 'Scroll Page Down' to '\033[6~'.  
+
+Getting side buttons on mouse to work:  
+Install BetterTouchTool http://www.boastr.de  
+Map button 3 to 3F Swipe Left.  Map button 4 to 3F Swipe Right.	
 
 Setting Up Audio
 ================
